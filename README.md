@@ -6,3 +6,6 @@ the model hyperparameters. The output shows the model accuracy, precision and re
 
 This web app is helpful for people new to classification algorithms and wish to visualize ML models and hyperparamter tuning without writing any code.
 ![app_pic1](https://user-images.githubusercontent.com/42868436/114851531-8fd11e00-9dff-11eb-988c-689e9add572f.jpg)
+
+![app_pic2](https://user-images.githubusercontent.com/42868436/114853437-6913e700-9e01-11eb-8978-f38baeb3c07b.jpg)
+
